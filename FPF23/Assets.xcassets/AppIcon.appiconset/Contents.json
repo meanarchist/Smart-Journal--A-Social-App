@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "DALL·E 2023-11-09 15.25.13 - Craft an iOS app icon for 'Smart Journal', which is centered around the theme of journaling. The icon should feature traditional journaling elements l.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
