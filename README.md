@@ -1,4 +1,4 @@
-# Team Oman
+# The App:
 
 Features:
 1. Initial Setup: Users will be sent to an app sign-up/log-in page where they can create an account and account details, credentials, and API tokens will be stored on Firebase.
